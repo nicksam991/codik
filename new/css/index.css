@@ -49,7 +49,7 @@ margin-top: 80px;
 }
 .awesome {
 padding: 100px 0 ;
-width: 1170px;
+max-width: 1170px;
 margin: 0 auto;
 }
 .container {

@@ -1,0 +1,71 @@
+.stylish-Axure-design {
+    position: relative;
+    padding: 100px 0;
+    background: url(../img/background\ 1.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+    .title-axure {
+    font-family: 'Raleway';
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 34px;
+    color: #FFFFFF;
+    }
+    .title-axure::after {
+    content: "";
+    margin: auto;
+    width: 64px;
+    height: 2px;
+    background-color: #fff;
+    margin-top: 34px;
+    display: block;
+    }
+    .axure-text {
+    font-family: 'Raleway';
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 57px;
+    }
+    .container {
+    position: relative;
+    z-index: 2;
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: auto;
+    }
+    .stylish-Axure-design::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.55);
+    }
+    .axure-button {
+    display: block;
+    font-family: 'Open Sans';
+    margin: auto;
+    width: 135px;
+    border: 1px solid #fff;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    transition: 0.1s;
+    background-color: rgba(28, 28, 28, 0);
+    cursor: pointer;
+    font-size: 15px;
+    }
+    .podtext {
+    color: #FFFFFF;
+    }
+    

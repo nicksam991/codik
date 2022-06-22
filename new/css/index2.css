@@ -13,7 +13,7 @@ font-family: 'Raleway';
 font-weight: 400;
 font-size: 36px;
 line-height: 42px;
-margin-bottom: 34px;
+
 }
 .line {
 width: 64px;
@@ -92,4 +92,7 @@ margin-top: 0px;
     max-width: 1170px;
     margin: auto;
     padding: 0 15px;
+}
+.options-text-orange {
+border-bottom: 1px solid #dad7d7;
 }
